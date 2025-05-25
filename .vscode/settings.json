@@ -11,6 +11,8 @@
         "format": "cpp",
         "initializer_list": "cpp",
         "span": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp"
     }
 }
